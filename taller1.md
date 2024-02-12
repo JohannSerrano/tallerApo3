@@ -1,9 +1,5 @@
 # tallerApo3
 ```
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package umariana.taller1;
 //Importamos La contenedora dinamica
 import java.util.ArrayList;
